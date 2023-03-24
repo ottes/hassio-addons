@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Ottes Home Assistant add-on repository
+name: Ottes HA Addons
 url: 'https://github.com/ottes/hassio-addons'
 maintainer: Michael Freund <ottes@ottes-techno.de>
